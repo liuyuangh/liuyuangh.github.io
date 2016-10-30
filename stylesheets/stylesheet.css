@@ -1026,3 +1026,7 @@ footer .owner p a {
 		opacity: 1;
 		visibility: hidden;
 	}
+       .music{
+		position:fixed;
+		margin:auto;
+	}
